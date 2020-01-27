@@ -9,7 +9,7 @@ title: Publications
 view: 4
 
 # Optional header image (relative to `static/img/` folder).
-header:
+header: Optimal routing of electric vehicles
   caption: ""
   image: ""
 ---
