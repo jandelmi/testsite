@@ -23,9 +23,9 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "Optimal routing of electric vehicles"
     category = ""
-    publication_type = ""
+    publication_type = "Master's Thesis"
   
 [design]
   # Toggle between the various page layout types.
@@ -33,7 +33,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 4
   
 [design.background]
   # Apply a background color, gradient, or image.
