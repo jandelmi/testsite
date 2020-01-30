@@ -30,10 +30,10 @@ education:
   - course: Doctoral Candidate in Mathematics and Systems Analysis
     institution: Aalto University School of Science
     year: 2015 --
-  - course: MSc in Systems and Operations Research (minor: Information and Computer Science)
+  - course: MSc in Systems and Operations Research
     institution: Aalto University School of Science
     year: 2014
-  - course: BSc in Systems Sciences (minor: Computer Science)
+  - course: BSc in Systems Sciences
     institution: Aalto University School of Science 
     year: 2013
 
