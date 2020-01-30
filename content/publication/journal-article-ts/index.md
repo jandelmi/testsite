@@ -1,6 +1,6 @@
 ---
 title: "An exact algorithm for the green vehicle routing problem"
-#authors:
+authors:
 - admin
 - Enrico Bartolini
 date: "2017-06-06T00:00:00Z"
