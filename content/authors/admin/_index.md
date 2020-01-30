@@ -33,8 +33,11 @@ education:
   - course: MSc in Mathematics and Systems Analysis
     institution: Aalto University School of Science
     year: 2014
-  - course: BSc in Engineering Physics and Mathematics
+  - course: BSc
     institution: Aalto University School of Science
+    department: Engineering Physics and Mathematics
+    major: Systems and Operations Research
+    minor: Computer Science 
     year: 2013
 
 # Social/Academic Networking
