@@ -35,9 +35,9 @@ education:
     year: 2014
   - course: BSc
     institution: Aalto University School of Science
-    department: Engineering Physics and Mathematics
-    major: Systems and Operations Research
-    minor: Computer Science 
+    institution: Engineering Physics and Mathematics
+    institution: major: Systems and Operations Research
+    institution: minor: Computer Science 
     year: 2013
 
 # Social/Academic Networking
