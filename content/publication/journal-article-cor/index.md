@@ -1,10 +1,10 @@
 ---
-title: "An exact algorithm for the green vehicle routing problem"
+title: "A multi-start local search heuristic for the Green Vehicle Routing Problem based on a multigraph reformulation"
 authors:
 - admin
 - "Enrico Bartolini"
-date: "2017-06-06T00:00:00Z"
-doi: "https://doi.org/10.1287/trsc.2016.0734"
+date: "2019-04-18T00:00:00Z"
+doi: "https://doi.org/10.1016/j.cor.2019.04.018"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -16,7 +16,7 @@ doi: "https://doi.org/10.1287/trsc.2016.0734"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Transportation Science"
+publication: "Computers & Operations Research"
 publication_short: ""
 
 # abstract:
