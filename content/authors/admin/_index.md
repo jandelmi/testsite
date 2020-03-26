@@ -51,6 +51,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=YmTEz4UAAAAJ&hl=fi&oi=ao
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Juho_Andelmin
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
