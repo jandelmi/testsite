@@ -1,8 +1,8 @@
 ---
 title: "Efficient Allocation of Resources to a Portfolio of Decision Making Units"
 authors:
-- admin
 - "Juuso Liesiö"
+- admin
 - "Ahti Salo"
 date: "2020-03-18T00:00:00Z"
 doi: "https://doi.org/10.1016/j.ejor.2020.03.031"
