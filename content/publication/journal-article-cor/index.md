@@ -77,7 +77,7 @@ url_source: ""
 #    url: ""
 
 # Does the content use math formatting?
-# math: true
+math: true
 
 # Does the content use source code highlighting?
 # highlight: true
