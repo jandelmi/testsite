@@ -106,5 +106,3 @@ caption: "My caption 😄"
 #   Otherwise, set `slides: ""`.
 # slides: ""
 ---
-
-Further details can be written here.
