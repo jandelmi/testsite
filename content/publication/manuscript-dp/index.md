@@ -1,9 +1,9 @@
 ---
 title: "Decision Programming for Multi-Stage Optimization under Uncertainty"
 authors:
-- "Ahti Salo"
+- Ahti Salo
 - admin
-- "Fabricio Oliveira"
+- Fabricio Oliveira
 date: "2020-01-15T00:00:00Z"
 doi: ""
 
