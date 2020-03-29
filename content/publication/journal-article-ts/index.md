@@ -16,8 +16,8 @@ doi: "https://doi.org/10.1287/trsc.2016.0734"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In *Transportation Science*"
-publication_short: ""
+publication: "*Transportation Science*"
+publication_short: "*Transportation Science*"
 
 # abstract:
 
