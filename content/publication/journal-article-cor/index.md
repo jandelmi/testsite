@@ -7,7 +7,7 @@ date: "2019-04-18T00:00:00Z"
 doi: "https://doi.org/10.1016/j.ejor.2020.03.031"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-04-18T00:00:00Z"
+# publishDate: "2019-04-18T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Computers & Operations Research*"
-publication_short: "*COR*"
+publication_short: ""
 
 # abstract:
 
@@ -28,17 +28,17 @@ publication_short: "*COR*"
 # - Source Themes
 # featured: false
 
-links:
-- name: ""
-    url: ""
-url_pdf: ""
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# links:
+# - name: ""
+#    url: ""
+# url_pdf: ""
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -52,12 +52,12 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+# projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+# slides: ""
 ---
