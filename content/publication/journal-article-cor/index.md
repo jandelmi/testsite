@@ -10,7 +10,7 @@ highlight = true
 [header]
 image = ""
 caption = ""
-+++
+
 # title: "A multi-start local search heuristic for the Green Vehicle Routing Problem based on a multigraph reformulation"
 # authors:
 # - admin
@@ -73,3 +73,4 @@ caption = ""
 #   Otherwise, set `slides: ""`.
 #slides: example
 #---
++++
