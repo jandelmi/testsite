@@ -3,8 +3,8 @@
 # This section displays recent blog posts from `content/publication/`.
 
 widget = "pages"  # Do not modify this line!
-active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+active = true     # Activate this widget? true/false
+weight = 1        # Order that this section will appear.
 
 title = "Recent Publications"
 subtitle = ""
