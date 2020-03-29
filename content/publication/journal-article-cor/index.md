@@ -4,7 +4,7 @@ authors:
 - admin
 - "Enrico Bartolini"
 date: "2019-04-18T00:00:00Z"
-doi: "https://doi.org/10.1016/j.cor.2019.04.018"
+doi: "https://doi.org/10.1016/j.ejor.2020.03.031"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-04-18T00:00:00Z"
@@ -16,8 +16,8 @@ publishDate: "2019-04-18T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: *Computers & Operations Research*
-publication_short: *COR*
+publication: "*Computers & Operations Research*"
+publication_short: "*COR*"
 
 # abstract:
 
@@ -28,24 +28,24 @@ publication_short: *COR*
 # - Source Themes
 # featured: false
 
-# links:
-# - name: ""
-#   url: ""
-# url_pdf: 
-# url_code: ''
-# url_dataset: ''
-# url_poster: ''
-# url_project: ''
-# url_slides: ''
-# url_source: ''
-# url_video: ''
+links:
+- name: ""
+    url: ""
+url_pdf: ""
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
 #  focal_point: ""
-# preview_only: false
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -60,5 +60,4 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
-# ---
 ---
