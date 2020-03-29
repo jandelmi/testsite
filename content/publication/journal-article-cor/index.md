@@ -55,18 +55,18 @@ projects: []
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+# projects: []
 
 # Links (optional).
-url_pdf:  ""
-url_preprint: ""
-url_code: ""
-url_dataset: ""
-url_project: ""
-url_slides: ""
-url_video: ""
-url_poster: ""
-url_source: ""
+url_pdf      = ""
+url_preprint = ""
+url_code     = ""
+url_dataset  = ""
+url_project  = ""
+url_slides   = ""
+url_video    = ""
+url_poster   = ""
+url_source   = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -77,10 +77,10 @@ url_source: ""
 #    url: ""
 
 # Does the content use math formatting?
-math: true
+math = true
 
 # Does the content use source code highlighting?
-highlight: true
+highlight = true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
