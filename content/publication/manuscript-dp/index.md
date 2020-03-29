@@ -5,7 +5,9 @@ authors:
 - admin
 - Fabricio Oliveira
 date: "2020-01-15T00:00:00Z"
+url_pdf: https://arxiv.org/pdf/1910.09196.pdf
 doi: ""
+
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-01-15T00:00:00Z"
@@ -32,7 +34,6 @@ publication_short: ""
 links:
 # - name: "arXiv"
 #  url: http://example.org
-url_pdf: https://arxiv.org/pdf/1910.09196.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
