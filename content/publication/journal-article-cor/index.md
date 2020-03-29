@@ -77,16 +77,16 @@ url_source: ""
 #    url: ""
 
 # Does the content use math formatting?
-math: true
+# math: true
 
 # Does the content use source code highlighting?
-highlight: true
+# highlight: true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
+# [header]
 # image: "headers/bubbles-wide.jpg"
-caption: "My caption 😄"
+# caption: "My caption 😄"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -106,3 +106,5 @@ caption: "My caption 😄"
 #   Otherwise, set `slides: ""`.
 # slides: ""
 ---
+
+Further details can be written here.
