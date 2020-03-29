@@ -3,7 +3,9 @@
 title: "A multi-start local search heuristic for the Green Vehicle Routing Problem based on a multigraph reformulation"
 
 # Authors, comma separated list
-authors: ["Juho Andelmin", "Enrico Bartolini"]
+authors:
+  - admin
+  - Enrico Bartolini
 
 # Date first published
 date: "2019-04-18T00:00:00Z"
