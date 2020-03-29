@@ -58,15 +58,15 @@ projects: []
 # projects: []
 
 # Links (optional).
-url_pdf      = ""
-url_preprint = ""
-url_code     = ""
-url_dataset  = ""
-url_project  = ""
-url_slides   = ""
-url_video    = ""
-url_poster   = ""
-url_source   = ""
+url_pdf:      ""
+url_preprint: ""
+url_code:     ""
+url_dataset:  ""
+url_project:  ""
+url_slides:   ""
+url_video:    ""
+url_poster:   ""
+url_source:   ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
