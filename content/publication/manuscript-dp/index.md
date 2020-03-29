@@ -30,7 +30,7 @@ publication_short: ""
 # featured: false
 
 links:
-- name: "arXiv"
+# - name: "arXiv"
 #  url: http://example.org
 url_pdf: https://arxiv.org/pdf/1910.09196.pdf
 # url_code: ''
