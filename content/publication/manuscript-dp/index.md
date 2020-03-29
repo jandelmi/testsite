@@ -4,7 +4,7 @@ authors:
 - "Ahti Salo"
 - admin
 - "Fabricio Oliveira"
-date: "2020-01-15T00:00:00Z"
+date = "2020-01-15"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,8 +17,8 @@ publishDate: "2020-01-15T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Submitted to Management Science*
-publication_short: In *Under Review"
+publication: *Under Review*
+publication_short: ""
 
 # abstract:
 
@@ -26,9 +26,9 @@ publication_short: In *Under Review"
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- "*Under review*
+# - "*Under review*
 # - Source Themes
-#featured: false
+featured: false
 
 links:
 # - name: ""
@@ -47,7 +47,7 @@ url_pdf: "https://arxiv.org/pdf/1910.09196.pdf"
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
 #  focal_point: ""
-#  preview_only: false
+preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
