@@ -41,10 +41,10 @@ summary: ""
 # summary = Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 # Featured image thumbnail (optional)
-# image_preview: ""
+image_preview: ""
 
 # Is this a selected publication? (true/false)
-# selected: true
+selected: true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -57,7 +57,7 @@ summary: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-# projects: []
+projects: []
 
 # Links (optional).
 url_pdf:      ""
@@ -79,7 +79,7 @@ url_source:   ""
 #    url: ""
 
 # Does the content use math formatting?
-# math: true
+math: true
 
 # Does the content use source code highlighting?
 # highlight: true
@@ -100,5 +100,5 @@ url_source:   ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: ""
+slides: ""
 ---
