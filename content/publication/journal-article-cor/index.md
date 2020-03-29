@@ -3,10 +3,10 @@
 title: "A multi-start local search heuristic for the Green Vehicle Routing Problem based on a multigraph reformulation"
 
 # Date first published
-date: "2019-04-18"
+date: "2019-04-18T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: "2019-04-18T00:00:00Z"
+publishDate: "2019-04-18T00:00:00Z"
 
 # Authors, comma separated list
 authors: ["Juho Andelmin", "Enrico Bartolini"]
@@ -60,15 +60,15 @@ summary: ""
 # projects: []
 
 # Links (optional).
-# url_pdf:      ""
-# url_preprint: ""
-# url_code:     ""
-# url_dataset:  ""
-# url_project:  ""
-# url_slides:   ""
-# url_video:    ""
-# url_poster:   ""
-# url_source:   ""
+url_pdf:      ""
+url_preprint: ""
+url_code:     ""
+url_dataset:  ""
+url_project:  ""
+url_slides:   ""
+url_video:    ""
+url_poster:   ""
+url_source:   ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -93,7 +93,7 @@ summary: ""
 
 # tags:
 # - Source Themes
-featured = false
+# featured = false
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
