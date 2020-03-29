@@ -1,4 +1,4 @@
-+++
+---
 title = "A multi-start local search heuristic for the Green Vehicle Routing Problem based on a multigraph reformulation"
 date = "2019-04-18"
 authors = ["Juho Andelmin", "Enrico Bartolini"]
@@ -73,4 +73,4 @@ caption = ""
 #   Otherwise, set `slides: ""`.
 #slides: example
 #---
-+++
+---
