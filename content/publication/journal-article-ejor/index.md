@@ -1,8 +1,8 @@
 ---
 title: "Efficient Allocation of Resources to a Portfolio of Decision Making Units"
 authors:
+- admin[2]
 - "Juuso Liesiö"
-- admin
 - "Ahti Salo"
 date: "2020-03-18T00:00:00Z"
 doi: "https://doi.org/10.1016/j.ejor.2020.03.031"
@@ -17,8 +17,8 @@ publishDate: "2020-03-18T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "in *European Journal of Operational Research*"
-publication_short: "in *European Journal of Operational Research*"
+publication: "*European Journal of Operational Research*"
+publication_short: "*European Journal of Operational Research*"
 
 # abstract:
 
