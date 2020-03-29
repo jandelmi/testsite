@@ -27,8 +27,8 @@ publishDate: "2019-04-18T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "in *Computers & Operations Research*"
-publication_short: "in *Computers & Operations Research*"
+publication: "*Computers & Operations Research*"
+publication_short: "*Computers & Operations Research*"
 
 # Abstract 
 # abstract: We consider the Green Vehicle Routing Problem (G-VRP) which is an extension of the classical vehicle routing problem for alternative fuel vehicles. In the G-VRP, vehicles’ driving autonomy and possible refueling stops en-route are explicitly modeled. We propose a multi-start local search algorithm that consists of three phases. The first two phases iteratively construct new solutions, improve them by local search, and store all vehicle routes forming these solutions in a route pool. Phase three optimally combines vehicle routes in the route pool by solving a set partitioning problem and improves the final solution by local search. The algorithm is based on a multigraph reformulation of the G-VRP in which nodes correspond to customers and a depot, and arcs correspond to possible sequences of refueling stops for vehicles traveling between two nodes. All local search operators used by our algorithm are tailored to exploit this reformulation and do not explicitly deal with refueling stations. We report computational results on benchmark instances with up to ∼ 470 customers, showing that the algorithm is competitive with state-of-the-art heuristics.
