@@ -100,5 +100,3 @@ highlight: true
 #   Otherwise, set `slides: ""`.
 # slides: ""
 ---
-
-Further details can be written here.
