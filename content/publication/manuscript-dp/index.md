@@ -5,8 +5,6 @@ authors:
 - admin
 - "Fabricio Oliveira"
 date: "2020-01-15T00:00:00Z"
-publication: "*Under Review*" 
-publication_short: "*Under Review*"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,8 +17,8 @@ publishDate: "2020-01-15T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Submitted to Management Science*"
-publication_short: "*Under Review"
+publication: In *Submitted to Management Science*
+publication_short: In *Under Review"
 
 # abstract:
 
