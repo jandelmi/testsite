@@ -16,8 +16,8 @@ doi: "https://doi.org/10.1016/j.cor.2019.04.018"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Computers & Operations Research*"
-# publication_short: ""
+publication: *Computers & Operations Research*
+publication_short: *COR*
 
 # abstract:
 
@@ -45,20 +45,20 @@ publication: "*Computers & Operations Research*"
 # image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
 #  focal_point: ""
-#  preview_only: false
+# preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-# projects: []
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: example
+slides: ""
 # ---
 ---
