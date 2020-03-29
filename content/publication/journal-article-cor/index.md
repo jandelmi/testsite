@@ -1,4 +1,4 @@
-+++
+---
 # Title of the publication
 title   = "A multi-start local search heuristic for the Green Vehicle Routing Problem based on a multigraph reformulation"
 
@@ -105,6 +105,6 @@ caption = "My caption 😄"
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides: ""
-+++
+---
 
 Further details can be written here.
