@@ -2,10 +2,10 @@ widget = "pages"  # Use the Pages widget
 headless = true   # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-active = true     # Activate this widget? true/false
-weight = 1        # Order that this section will appear.
-headless = true   # This file represents a page section.
+widget = pages  # See https://sourcethemes.com/academic/docs/page-builder/
+active = true   # Activate this widget? true/false
+weight = 90     # Order that this section will appear.
+headless = true # This file represents a page section.
 
 title = "Recent Publications"
 
