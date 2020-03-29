@@ -27,7 +27,6 @@ publication_short: "in *European Journal of Operational Research*"
 
 tags:
   - Source Themes
-  publication: true
   featured: false
 
 # links:
