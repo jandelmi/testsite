@@ -36,9 +36,9 @@ publication_short: "in *Computers & Operations Research*"
 # Optional shortened abstract
 # summary: We (i) consider the Green Vehicle Routing Problem (G-VRP) which adapts the classical vehicle routing problem to alternative fuel vehicles; (ii) propose a new multi-start local search matheuristic for the G-VRP which is based on a multigraph reformulation; (iii) demonstrate the effectiveness of our algorithm by comparing it to the other state of the art heuristic methods on a set of benchmark instances with up to 500 customers, and (iv) report improved best known upper bounds on 8 of the largest benchmark instances and show that our algorithm gives upper bounds that are on average within 0.27% far from optimal on a set of new benchmark instances with 50–100 customers.
 
-tags:
-- Source Themes
-featured: false
+# tags:
+# - Source Themes
+# featured: false
 
 # links:
 # - name: ""
