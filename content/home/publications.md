@@ -1,3 +1,4 @@
++++
 widget = "pages"  # Use the Pages widget
 headless = true   # This file represents a page section.
 
@@ -40,3 +41,4 @@ title = "Recent Publications"
   #   3 = Card
   #   4 = Citation (publication only)
   view = 2
++++
