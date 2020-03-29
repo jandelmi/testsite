@@ -1,52 +1,50 @@
-{{- define "main" -}}
+{{ $page := .page }}
+{{ $summary := .summary }}
+{{ $featured_image := ($page.Resources.ByType "image").GetMatch "*featured*" }}
 
-{{ partial "page_header.html" . }}
+{{/* Get schema type. */}}
+{{ $schema := "Article" }}
+{{ if eq $page.Type "post" }}
+  {{ $schema = "BlogPosting" }}
+{{ end }}
 
-<div class="universal-wrapper">
-  <div class="row">
-    <div class="col-lg-12">
+{{ $author := partial "functions/get_author_name" $page }}
+{{ $publisher := site.Params.org_name | default site.Title }}
+{{ $logo_url := (printf "img/%s" (site.Params.logo | absURL)) | default (partial "functions/get_icon" 512).Permalink }}
 
-      {{ with .Content }}
-      <div class="article-style">{{ . }}</div>
-      {{ end }}
-
-      {{/* Array of distinct years. */}}
-      {{ range .Pages.ByDate.Reverse }}
-        {{ $year := print (.Date.Format "2006") }}
-        {{ $.Scratch.SetInMap "years" $year $year }}
-      {{ end }}
-
-      <div class="form-row mb-4">
-        <div class="col-auto">
-          <input type="search" class="filter-search" placeholder="{{ i18n "search_placeholder" }}" autocapitalize="off"
-          autocomplete="off" autocorrect="off" role="textbox" spellcheck="false">
-        </div>
-        <div class="col-auto">
-          <select class="pub-filters pubtype-select form-control form-control-sm" data-filter-group="pubtype">
-            <option value="*">{{ i18n "publication_type" }}</option>
-            {{ $pub_types := partial "functions/get_pub_types" $ }}
-            {{ range $index, $taxonomy := site.Taxonomies.publication_types }}
-            <option value=".pubtype-{{ (int $index) }}">
-              {{ index $pub_types (int $index) }}
-            </option>
-            {{ end }}
-          </select>
-        </div>
-        <div class="col-auto">
-          <select class="pub-filters form-control form-control-sm" data-filter-group="year">
-            <option value="*">{{ i18n "date" }}</option>
-            {{ $years_sorted := $.Scratch.GetSortedMapValues "years" }}
-            {{ if $years_sorted }}
-            {{ range $year := sort $years_sorted "" "desc" }}
-            <option value=".year-{{ $year }}">
-              {{ $year }}
-            </option>
-            {{ end }}
-            {{ end }}
-          </select>
-        </div>
-      </div>
-
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": {{$schema}},
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": {{$page.Permalink}}
+  },
+  "headline": {{$page.Title}},
+  {{ if $featured_image }}
+  "image": [
+    {{$featured_image.Permalink}}
+  ],
+  {{end}}
+  "datePublished": {{ $page.PublishDate.Format "2006-01-02T15:04:05Z07:00" }},
+  "dateModified": {{ $page.Lastmod.Format "2006-01-02T15:04:05Z07:00" }},
+  {{with $author}}
+  "author": {
+    "@type": "Person",
+    "name": {{.}}
+  },
+  {{end}}
+  "publisher": {
+    "@type": "Organization",
+    "name": {{$publisher}},
+    "logo": {
+      "@type": "ImageObject",
+      "url": {{$logo_url}}
+    }
+  },
+  "description": {{$summary}}
+}
+</script>
       <div id="container-publications">
         {{ range .Pages.ByDate.Reverse }}
 
