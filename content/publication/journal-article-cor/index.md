@@ -83,12 +83,6 @@ math: true
 highlight: true
 
 # Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-# image: "headers/bubbles-wide.jpg"
-caption: "My caption 😄"
-
-# Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # image:
 #  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
