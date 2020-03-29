@@ -23,7 +23,7 @@ authors: ["Juho Andelmin", "Enrico Bartolini"]
 publication_types: "2"
 
 # DOI of the article
-doi: "https://doi.org/10.1016/j.ejor.2020.03.031"
+doi: "https://doi.org/10.1016/j.cor.2019.04.018"
 
 # Publication name and optional abbreviated publication name.
 publication: "In *Computers & Operations Research*"
