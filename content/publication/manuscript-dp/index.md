@@ -5,6 +5,7 @@ authors:
 - admin
 - "Fabricio Oliveira"
 date: "2020-01-15T00:00:00Z"
+journal:  
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,8 +18,8 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Computers & Operations Research"
-publication_short: ""
+publication: "Submitted to Management Science"
+publication_short: "Submitted to Management Science"
 
 # abstract:
 
