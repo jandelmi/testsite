@@ -41,10 +41,10 @@ summary: ""
 # summary = Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 # Featured image thumbnail (optional)
-image_preview: ""
+# image_preview: ""
 
 # Is this a selected publication? (true/false)
-selected: true
+# selected: true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -79,10 +79,10 @@ url_source:   ""
 #    url: ""
 
 # Does the content use math formatting?
-math: true
+# math: true
 
 # Does the content use source code highlighting?
-highlight: true
+# highlight: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
