@@ -10,7 +10,7 @@ publication_short: "*Under Review*"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-01-15T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,14 +20,15 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Submitted to Management Science*"
-publication_short: ""
+publication_short: "*Under Review"
 
 # abstract:
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-#tags:
+tags:
+- "*Under review*
 # - Source Themes
 #featured: false
 
