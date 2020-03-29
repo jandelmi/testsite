@@ -50,7 +50,7 @@ summary: ""
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects: []
+# projects: []
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -60,15 +60,15 @@ projects: []
 # projects: []
 
 # Links (optional).
-url_pdf:      ""
-url_preprint: ""
-url_code:     ""
-url_dataset:  ""
-url_project:  ""
-url_slides:   ""
-url_video:    ""
-url_poster:   ""
-url_source:   ""
+# url_pdf:      ""
+# url_preprint: ""
+# url_code:     ""
+# url_dataset:  ""
+# url_project:  ""
+# url_slides:   ""
+# url_video:    ""
+# url_poster:   ""
+# url_source:   ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
